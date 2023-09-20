@@ -1,0 +1,1 @@
+Este proyecto de muestra es ideal para aquellos que deseen aprender y familiarizarse con la integración de Redux y React en un contexto de comercio electrónico. Puede servir como punto de partida para desarrollar un sitio de comercio electrónico más completo y personalizado.
